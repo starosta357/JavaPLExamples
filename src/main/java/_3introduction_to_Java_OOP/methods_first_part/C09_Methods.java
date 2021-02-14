@@ -8,12 +8,12 @@ public class C09_Methods {
 
     static int addTwo(int a) {
         a = a + 2;
-        System.out.println("Значение int a = " + a);
+        System.out.println("Value int a = " + a);
         return a;
     }
 
     public static void main(String[] args) {
-        System.out.println("Введите число:");
+        System.out.println("Enter number:");
         Scanner in = new Scanner(System.in);
 
         // Accept input from the user and convert it to an integer value

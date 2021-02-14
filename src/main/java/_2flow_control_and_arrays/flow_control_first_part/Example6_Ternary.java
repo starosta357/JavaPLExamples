@@ -4,7 +4,7 @@ public class Example6_Ternary {
     public static void main(String[] args) {
         int a = 1, b = 2, c, max;
 
-        max = a > b ? (c = a) : (c = b); // first of all: с = а, and then: max = c
+        max = a > b ? (c = a) : (c = b); // first of all: c = a, and then: max = c
         System.out.println(c);
         System.out.println(max);
     }

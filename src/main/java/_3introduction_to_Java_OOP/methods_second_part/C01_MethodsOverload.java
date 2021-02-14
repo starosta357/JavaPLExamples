@@ -3,27 +3,27 @@ package _3introduction_to_Java_OOP.methods_second_part;
 public class C01_MethodsOverload {
     // Overloaded methods can differ in type and number of arguments.
 
-    static void function() {                 // 1-я перегрузка.
+    static void function() {                 // first Overload.
         System.out.println("Hello!");
     }
 
-    static void function(String s) {        // 2-я перегрузка.
+    static void function(String s) {        // second Overload.
         System.out.println(s);
     }
 
-    static void function(int i) {           // 3-я перегрузка.
+    static void function(int i) {           // third Overload.
         System.out.println(i);
     }
 
-    static void function(double d) {        // 4-я перегрузка.
+    static void function(double d) {        // Overload number 4.
         System.out.println(d);
     }
 
-    static void function(String s, int i) { // 5-я перегрузка.
+    static void function(String s, int i) { // Overload number 5.
         System.out.println(s + i);
     }
 
-    static void function(int i, String s) { // 6-я перегрузка.
+    static void function(int i, String s) { // Overload number 6.
         System.out.println(i + s);
     }
 
