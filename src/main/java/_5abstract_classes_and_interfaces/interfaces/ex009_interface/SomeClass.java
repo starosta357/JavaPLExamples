@@ -1,4 +1,4 @@
-package _4principles_inheritance_and_polymorphism.ex009_interface_inheritance;
+package _5abstract_classes_and_interfaces.interfaces.ex009_interface;
 
 public class SomeClass implements SomeInterface1, SomeInterface2, SomeInterface3 {
     public void method1() {

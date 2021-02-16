@@ -1,4 +1,4 @@
-package _4principles_inheritance_and_polymorphism.ex009_interface_inheritance;
+package _5abstract_classes_and_interfaces.interfaces.ex009_interface;
 
 public class Main {
     public static void main(String[] args) {
