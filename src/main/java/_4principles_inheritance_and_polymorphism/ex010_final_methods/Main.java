@@ -1,4 +1,4 @@
-package _4principles_inheritance_and_polymorphism.ex012_final_methods;
+package _4principles_inheritance_and_polymorphism.ex010_final_methods;
 
 class ClassA {
     public void method1() {

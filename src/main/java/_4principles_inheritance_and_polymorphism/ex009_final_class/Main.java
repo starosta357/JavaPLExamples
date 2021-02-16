@@ -1,4 +1,4 @@
-package _4principles_inheritance_and_polymorphism.ex011_final_class;
+package _4principles_inheritance_and_polymorphism.ex009_final_class;
 
 final class FinalClass {
     public int x;

@@ -1,4 +1,4 @@
-package _4principles_inheritance_and_polymorphism.ex010_super_method;
+package _4principles_inheritance_and_polymorphism.ex008_super_method;
 
 public class Main {
     public static void main(String[] args) {
